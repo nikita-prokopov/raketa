@@ -1,4 +1,6 @@
-Демо тестового: https://nikita-prokopov.github.io/raketa/  
+Демо тестового:  
+https://nikita-prokopov.github.io/raketa/  
+
 Фильтрация происходит по полю title.  
 
 Чтобы развернуть локально, пропишите следующие команды:  
